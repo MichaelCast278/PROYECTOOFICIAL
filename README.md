@@ -5,4 +5,4 @@
 ![Calidad requerida](quality.png)
 
 ### Resultado del alumno en SonarQube
-![Resultado SonarQube](sonnarqubeanalyze.png)
+![Resultado SonarQube](sonnar.png)
